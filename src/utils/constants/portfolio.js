@@ -65,7 +65,7 @@ const portfolioProjects = [
   },
   {
     id: 9,
-    image: 'https://i.ibb.co.com/dchrSzk/16.png',
+    image: 'https://i.ibb.co.com/LS6PCdT/Screenshot-200.png',
     title: 'API Movie Aps',
     link: 'https://documenter.getpostman.com/view/9938344/2sA3XY5cm3',
     description: 'Merupakan project API movie dengan menggunakan LOGIN JWT ',
