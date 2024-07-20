@@ -3,8 +3,8 @@
     <div class="container mx-auto">
       <div class="relative flex items-center justify-between">
         <div class="px-4">
-          <a href="#home" class="block py-6 text-lg font-bold text-secondary"
-            >Amien Ramdhani</a
+          <RouterLink to="/" class="block py-6 text-lg font-bold text-secondary"
+            >Amien Ramdhani</RouterLink
           >
         </div>
         <div class="flex items-center px-4">
