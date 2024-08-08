@@ -18,6 +18,6 @@ export default {
   },
   plugins: [daisyui],
   daisyui: {
-    themes: ['light', 'dark', 'cupcake', 'night', 'aqua'],
+    themes: ['light', 'dark', 'cupcake', 'night', 'lofi'],
   },
 };

@@ -70,6 +70,13 @@ const portfolioProjects = [
     link: 'https://documenter.getpostman.com/view/9938344/2sA3XY5cm3',
     description: 'Merupakan project API movie dengan menggunakan LOGIN JWT ',
   },
+  {
+    id: 10,
+    image: 'https://i.ibb.co.com/LS6PCdT/Screenshot-200.png',
+    title: 'Perpustar Aps',
+    link: 'https://perpustar.vercel.app/',
+    description: 'Merupakan project Perpustakaan dengan menggunakan LOGIN JWT ',
+  },
 ];
 
 export { portfolioProjects };

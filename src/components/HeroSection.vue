@@ -18,10 +18,11 @@
             buat menggunakan Vue JS 3 dan Tailwind CSS
           </p>
 
-          <RouterLink
-            to="/tentang"
+          <a
+            href="../../Muhammad Amien Ramdhani Web.pdf"
+            download
             class="rounded-full bg-accent px-8 py-3 text-base font-semibold text-white transition duration-300 ease-in-out hover:opacity-80 hover:shadow-lg"
-            >Tentang Saya</RouterLink
+            >CV SAYA</a
           >
         </div>
         <div class="w-full self-end px-4 lg:w-1/2">
