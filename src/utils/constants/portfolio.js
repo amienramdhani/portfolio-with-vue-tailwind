@@ -72,7 +72,7 @@ const portfolioProjects = [
   },
   {
     id: 10,
-    image: 'https://i.ibb.co.com/LS6PCdT/Screenshot-200.png',
+    image: 'https://i.ibb.co.com/W5Dtrp1/Screenshot-206.png',
     title: 'Perpustar Aps',
     link: 'https://perpustar.vercel.app/',
     description: 'Merupakan project Perpustakaan dengan menggunakan LOGIN JWT ',

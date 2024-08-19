@@ -74,7 +74,7 @@ export const useSkillStore = defineStore('skill', () => {
       alt: 'react',
     },
     {
-      id: 10,
+      id: 11,
       image: 'https://cdn.worldvectorlogo.com/logos/vue-9.svg',
       title: 'Vue JS',
       link: 'https://vuejs.org/',
