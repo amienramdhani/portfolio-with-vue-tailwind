@@ -30,6 +30,22 @@ const works = [
     detail:
       'CRUD Dengan Menggunakan CodeIgniter, Maintenance Web dengan menggunakan Codeigniter',
   },
+  {
+    id: 5,
+    year: '2024-2025 (September - Januari)',
+    name: 'Journal1zadv',
+    role: 'Back End Developer',
+    detail:
+      'Membuat sistem Absensi untuk manajemen presensi perusahaan Journal1zadv',
+  },
+  {
+    id: 6,
+    year: '2025 (Februari - Sekarang)',
+    name: 'Laskar AI',
+    role: 'Mentor Program Laskar AI',
+    detail:
+      'Membantu peserta Laskar AI untuk menyelesaikan tugas, Menjadi wadah untuk peserta ketika ada kesulitan, Program konsultasi Pekanan',
+  },
 ];
 
 export { works };
