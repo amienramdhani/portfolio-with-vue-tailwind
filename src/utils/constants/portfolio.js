@@ -1,7 +1,7 @@
 const portfolioProjects = [
   {
     id: 1,
-    image: 'https://yourimageshare.com/ib/gXhHId0U7Q',
+    image: 'https://i.imgur.com/3QPkwii.png',
     title: 'Instroke (Stroke Prediction)',
     link: 'https://github.com/amienramdhani/Instroke_Capstone',
     description:
@@ -9,7 +9,7 @@ const portfolioProjects = [
   },
   {
     id: 2,
-    image: 'https://yourimageshare.com/ib/imPcq60R91',
+    image: 'https://i.imgur.com/M7qz2ej.png',
     title: 'Mini Tweet Using Ruby on Rails',
     link: 'https://github.com/amienramdhani/TweetAppRuby',
     description:
@@ -17,7 +17,7 @@ const portfolioProjects = [
   },
   {
     id: 3,
-    image: 'https://yourimageshare.com/ib/NVfaJPWmhJ',
+    image: 'https://i.imgur.com/JhcNS3W.png',
     title: 'SILOKER(Sistem Lowongan Kerja)',
     link: 'https://github.com/amienramdhani/praktikumphp/tree/master/siloker',
     description:
@@ -25,7 +25,7 @@ const portfolioProjects = [
   },
   {
     id: 4,
-    image: 'https://yourimageshare.com/ib/a4298Vum82',
+    image: 'https://i.imgur.com/sEbkvZO.png',
     title: 'CRUD Sederhana Laravel 10',
     link: 'https://github.com/amienramdhani/CrudTweet',
     description:
@@ -33,7 +33,7 @@ const portfolioProjects = [
   },
   {
     id: 5,
-    image: 'https://yourimageshare.com/ib/GcrqJiYhMW',
+    image: 'https://i.imgur.com/4JhQN5c.png',
     title: 'Covid App',
     link: 'https://covid-app-maulana.vercel.app/',
     description:
@@ -41,7 +41,7 @@ const portfolioProjects = [
   },
   {
     id: 6,
-    image: 'https://yourimageshare.com/ib/11SUblE3M4',
+    image: 'https://i.imgur.com/ei48NCi.png',
     title: 'Aplikasi Keuangan Sederhana',
     link: 'https://github.com/amienramdhani/ApkKeuangan',
     description:
@@ -63,14 +63,14 @@ const portfolioProjects = [
   },
   {
     id: 9,
-    image: 'https://yourimageshare.com/ib/D0eMJ8Aucz',
+    image: 'https://i.imgur.com/HQvVtgd.png',
     title: 'Data Science Employee',
     link: 'https://github.com/amienramdhani/employee-data-science',
     description: 'Proyek data science untuk menganalisis tingginya karyawan yang resign, dan membuat dashboard agar memudahkan dalam pengambilan keputusan',
   },
   {
     id: 10,
-    image: 'https://yourimageshare.com/ib/CDbum0CgmI',
+    image: 'https://i.imgur.com/ZvbkmJv.png',
     title: 'Data Science Education',
     link: 'https://educationds-amienramdhani.streamlit.app/',
     description: 'Proyek data science untuk menganalisis tingginya siswa yang dropout, dan membuat dashboard agar memudahkan dalam pengambilan keputusan',
