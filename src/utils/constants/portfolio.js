@@ -1,7 +1,7 @@
 const portfolioProjects = [
   {
     id: 1,
-    image: 'https://i.ibb.co.com/gmr32sQ/2.png',
+    image: 'https://iili.io/3bcOFcu.png',
     title: 'Instroke (Stroke Prediction)',
     link: 'https://github.com/amienramdhani/Instroke_Capstone',
     description:
